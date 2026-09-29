@@ -87,11 +87,11 @@ Git & GitHub
 
 ---
 
-## `> contribution_snake`
+## `> PACMAN`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IT25104031/IT25104031/output/pacman-contribution-graph-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/IT25104031/IT25104031/output/dist/pacman-contribution-graph-dark.svg" />
 
 </div>
 
