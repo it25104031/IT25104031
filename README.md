@@ -91,7 +91,7 @@ Git & GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IT25104031/IT25104031/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/IT25104031/IT25104031/output/pacman-contribution-graph-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
