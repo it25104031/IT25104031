@@ -91,7 +91,10 @@ Git & GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IT25104031/IT25104031/output/dist/pacman-contribution-graph-dark.svg" />
+<img
+  src="https://raw.githubusercontent.com/IT25104031/IT25104031/pacman-output/pacman-contribution-graph-dark.svg"
+  alt="Pacman contribution graph"
+/>
 
 </div>
 
