@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
 
 # `IT25104031`
@@ -126,14 +127,24 @@ Git & GitHub
 
 <div align="center">
 
-```text
-────────────────────────────────────
+---
 
-        CODE • LEARN • BUILD
+<div align="center">
 
-────────────────────────────────────
-```
+<br>
 
-<sub>Thanks for visiting my profile.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Dream+it.+Code+it.+Build+it.;Always+learning.+Always+building." alt="Always learning. Always building." />
+
+<br>
+
+<sub>Thanks for stopping by — see you in the next commit.</sub>
+
+<br><br>
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/↑_BACK_TO_TOP-161B22?style=for-the-badge" alt="Back to top" />
+</a>
+
+<br><br>
 
 </div>
