@@ -18,7 +18,7 @@
 ## `> whoami`
 
 ```text
-Software Engineering student
+Computer Science student
 Interested in software development
 Learning by building real projects
 Always experimenting with new technologies
