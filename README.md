@@ -69,9 +69,9 @@ Git & GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IT25104031&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" />
+<img height="170" alt="GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=IT25104031&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT25104031&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
+<img height="170" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IT25104031&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
 
 </div>
 
@@ -105,11 +105,19 @@ Git & GitHub
 <div align="center">
 
 <a href="https://github.com/IT25104031">
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
 </a>
 
 <a href="https://ashenmaha.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+</a>
+
+<a href="https://www.facebook.com/ashen.maharamba">
+  <img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
+</a>
+
+<a href="https://www.instagram.com/captain_ashen/">
+  <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
 </a>
 
 </div>
