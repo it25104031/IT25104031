@@ -3,9 +3,9 @@
 
 # `IT25104031`
 
-### Software Engineering Student
+### Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+%7C+Learning+%7C+Improving;Software+Engineering+Student;Code.+Learn.+Build.+Repeat." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+%7C+Learning+%7C+Improving;Computer+Science+Student+at+SLIIT;Code.+Learn.+Build.+Repeat." alt="Typing animation" />
 
 <br>
 
